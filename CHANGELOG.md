@@ -5,7 +5,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unpublished Version / DEV]
 
-## 1.4.1 - 2024-02-27
+## 1.4.1 - 2024-02-27 
 
 ### `Changed`
 
